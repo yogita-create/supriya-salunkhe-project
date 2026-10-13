@@ -1,2 +1,2 @@
 # supriya-salunkhe-project
-# Portfolio of the supply chain analyst
+# Portfolio for the supply chain analyst role
